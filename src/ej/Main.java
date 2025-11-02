@@ -5,7 +5,8 @@ public class Main {
 
     }
 
-    public static void main(String[] var0) {
-
+    public static void main(String[] args) {
+        Kit kitDeDemarrage = new Kit();
+        kitDeDemarrage.afficherKit();
     }
 }
